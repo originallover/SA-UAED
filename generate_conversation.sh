@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# 生成 3 说话人对话数据（不包含声音事件混合）
 
 # export KALDI_ROOT=/path/to/kaldi
 # export LSDIR=/path/to/LibriSpeech
