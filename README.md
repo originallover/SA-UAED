@@ -247,7 +247,7 @@ If you use this simulation pipeline or the LibriPara dataset, please cite:
 ```bibtex
 @inproceedings{lan2026sauaed,
   title     = {SA-UAED: Joint Frame-Level Detection of Audio Events, Speaker Activities, and Speaker-Attributed Paralinguistic Events},
-  author    = {Lan, Zekun and Zhang, Wangyou and Qian, Yanmin},
+  author    = {Zekun Lan and Wangyou Zhang and Yanmin Qian},
   booktitle = {Proc. Interspeech},
   year      = {2026}
 }
