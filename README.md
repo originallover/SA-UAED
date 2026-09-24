@@ -245,10 +245,13 @@ labels/conv_xxxxxx.json          # frame-level labels
 If you use this simulation pipeline or the LibriPara dataset, please cite:
 
 ```bibtex
-@inproceedings{lan2026sauaed,
-  title     = {SA-UAED: Joint Frame-Level Detection of Audio Events, Speaker Activities, and Speaker-Attributed Paralinguistic Events},
+@inproceedings{lan26_interspeech,
+  title     = {{SA-UAED: Joint Frame-Level Detection of Audio Events, Speaker Activities, and Speaker-Attributed Paralinguistic Events}},
   author    = {Zekun Lan and Wangyou Zhang and Yanmin Qian},
-  booktitle = {Proc. Interspeech},
-  year      = {2026}
+  year      = {2026},
+  booktitle = {{Interspeech 2026}},
+  pages     = {1406--1410},
+  doi       = {10.21437/Interspeech.2026-2486},
+  issn      = {2958-1796},
 }
 ```
